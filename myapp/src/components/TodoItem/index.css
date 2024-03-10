@@ -1,0 +1,9 @@
+.div1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.btn1{
+    height: 5vh;
+    margin: 30px;
+}
