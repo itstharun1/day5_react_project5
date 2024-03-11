@@ -59,7 +59,7 @@ class Todo extends Component{
             <div className="div2">
                 <h1>Todo List</h1>
                 <div>
-                    <input onChange={this.addinput} type="text" /> <button onClick={this.submitInput}>Add Task</button>
+                    <input placeholder="Enter Task Todo" onChange={this.addinput} type="text" /> <button onClick={this.submitInput}>Add Task</button>
                 </div>
                 <div>
                     {newTodoList.map((item) => (

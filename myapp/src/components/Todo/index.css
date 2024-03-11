@@ -1,3 +1,14 @@
 .div2{
     text-align: center;
+    background-color: antiquewhite;
+    padding: 10px;
+    height: 100vh;
+    font-family: serif;
+    font-style: italic;
+}
+button{
+    font-weight: bold;
+    border-radius: 10px;
+    border-width: 0px;
+    padding: 10px;
 }
